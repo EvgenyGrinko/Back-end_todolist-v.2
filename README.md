@@ -1,1 +1,1 @@
-# Back-end_todolist-v.2
+In this project was created a simple TodoList. It allows to add new deals in the list as well as remove any of them. All data is saved to the local MongoDB database. Also you can create new lists with arbitrary names and for each of them a new database is created as well. Lists are constructed with EJS template.  
